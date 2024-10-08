@@ -39,21 +39,21 @@ mvn spring-boot:run
 ### API Endpoints
 Here are some example API endpoints for a user resource:
 
-Create User
+### Create User
 Endpoint: POST /api/v1/users/createUser
 
-Get All Users
+### Get All Users
 Endpoint: GET /api/v1/users/getAllUsers
 
-Get User By Id
+### Get User By Id
 
 Endpoint: GET /api/v1/users/getUser/{id}
 
-Update User
+### Update User
 Endpoint: PUT /api/v1/users/updateUser/{id}
 
-Delete User
+### Delete User
 Endpoint: DELETE /api/v1/users/deleteUser/{id}
 
-Logging
+### Logging
 Request and response logs are stored in the logs directory under the project root. Ensure the directory exists, or it will be created automatically when you run the application.
