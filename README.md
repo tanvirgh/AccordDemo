@@ -57,3 +57,9 @@ Endpoint: DELETE /api/v1/users/deleteUser/{id}
 
 ### Logging
 Request and response logs are stored in the logs directory under the project root. Ensure the directory exists, or it will be created automatically when you run the application.
+
+### postman collection Link
+[https://api.postman.com/collections/12462814-30f33998-f30a-4454-a3a7-20e46a407a73?access_key=PMAT-01J9NFYXQB1ENEZKS56N902E0D]
+
+### Swagger documentaion
+[http://localhost:8080/swagger-ui/index.html]
