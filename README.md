@@ -36,7 +36,7 @@ You can run the application using the following command:
 
 mvn spring-boot:run
 
-API Endpoints
+### API Endpoints
 Here are some example API endpoints for a user resource:
 
 Create User
