@@ -23,6 +23,9 @@
 
 git clone [https://github.com/tanvirgh/AccordDemo.git]
 
+After clone prepare the database using the sql script provided in application classpath 
+Location : com.accord.repository.sql  file name : sample-database.sql
+
 
 ### Build the Project
 Use Maven to build the project:
@@ -36,7 +39,8 @@ You can run the application using the following command:
 
 mvn spring-boot:run
 
-
+### UML diagram
+the UML diagram image will be found under projectrool/uml folder.
 
 ### Logging
 Request and response logs are stored in the logs directory under the project root. Ensure the directory exists, or it will be created automatically when you run the application.
