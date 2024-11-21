@@ -3,7 +3,7 @@ package com.accord.exception;
 
 /**
  * User : Tanvir Ahmed
- * Date: 11/7/2024.
+ * Date: 11/20/2024.
  */
 public class ResourceNotFoundException extends RuntimeException {
 
